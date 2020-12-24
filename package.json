@@ -1,0 +1,18 @@
+{
+  "name": "clt-demo",
+  "version": "0.0.1",
+  "description": "a demo for writing CLT with NodeJS",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "CLT"
+  ],
+  "author": "TOURCODER.COM",
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+    "commandname": "app.js"
+  }
+}
